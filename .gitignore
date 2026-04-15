@@ -1,0 +1,9 @@
+.build/
+build/
+zephyr/
+modules/
+west/
+*.uf2
+*.bin
+*.hex
+.DS_Store

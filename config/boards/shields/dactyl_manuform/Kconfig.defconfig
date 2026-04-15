@@ -1,0 +1,13 @@
+if SHIELD_DACTYL_MANUFORM_LEFT
+
+config ZMK_KEYBOARD_NAME
+	default "Dactyl Manuform"
+
+endif
+
+if SHIELD_DACTYL_MANUFORM_RIGHT
+
+config ZMK_KEYBOARD_NAME
+	default "Dactyl Manuform"
+
+endif

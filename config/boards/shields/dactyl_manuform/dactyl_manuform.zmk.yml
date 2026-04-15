@@ -1,0 +1,11 @@
+file_format: "1"
+id: dactyl_manuform
+name: Dactyl Manuform
+url: https://github.com/your-name/dactyl_zmk
+requires: [nice_nano_v2]
+features:
+  - keys
+  - studio
+siblings:
+  - dactyl_manuform_left
+  - dactyl_manuform_right
